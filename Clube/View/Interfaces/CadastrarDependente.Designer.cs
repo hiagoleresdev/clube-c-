@@ -62,11 +62,11 @@
             this.label9.AutoSize = true;
             this.label9.Font = new System.Drawing.Font("Segoe UI", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label9.ForeColor = System.Drawing.Color.Black;
-            this.label9.Location = new System.Drawing.Point(173, 483);
+            this.label9.Location = new System.Drawing.Point(191, 488);
             this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(73, 31);
+            this.label9.Size = new System.Drawing.Size(79, 31);
             this.label9.TabIndex = 11;
-            this.label9.Text = "Sócio";
+            this.label9.Text = "Sócio:";
             this.label9.Click += new System.EventHandler(this.label9_Click);
             // 
             // txtEmailDependente
@@ -84,11 +84,11 @@
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Segoe UI", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label5.ForeColor = System.Drawing.Color.Black;
-            this.label5.Location = new System.Drawing.Point(173, 393);
+            this.label5.Location = new System.Drawing.Point(191, 393);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(73, 31);
+            this.label5.Size = new System.Drawing.Size(79, 31);
             this.label5.TabIndex = 7;
-            this.label5.Text = "Email";
+            this.label5.Text = "Email:";
             this.label5.Click += new System.EventHandler(this.label5_Click);
             // 
             // txtParentescoSocio
@@ -106,11 +106,11 @@
             this.label6.AutoSize = true;
             this.label6.Font = new System.Drawing.Font("Segoe UI", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label6.ForeColor = System.Drawing.Color.Black;
-            this.label6.Location = new System.Drawing.Point(97, 301);
+            this.label6.Location = new System.Drawing.Point(107, 301);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(157, 31);
+            this.label6.Size = new System.Drawing.Size(163, 31);
             this.label6.TabIndex = 5;
-            this.label6.Text = "PARENTESCO";
+            this.label6.Text = "PARENTESCO:";
             this.label6.Click += new System.EventHandler(this.label6_Click);
             // 
             // txtNumCartaoDependente
@@ -130,9 +130,9 @@
             this.label7.ForeColor = System.Drawing.Color.Black;
             this.label7.Location = new System.Drawing.Point(97, 209);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(167, 31);
+            this.label7.Size = new System.Drawing.Size(173, 31);
             this.label7.TabIndex = 3;
-            this.label7.Text = "NUM CARTÃO";
+            this.label7.Text = "NUM CARTÃO:";
             this.label7.Click += new System.EventHandler(this.label7_Click);
             // 
             // txtNomeDependente
@@ -150,7 +150,7 @@
             this.label8.AutoSize = true;
             this.label8.Font = new System.Drawing.Font("Segoe UI", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label8.ForeColor = System.Drawing.Color.Black;
-            this.label8.Location = new System.Drawing.Point(173, 125);
+            this.label8.Location = new System.Drawing.Point(181, 125);
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(89, 31);
             this.label8.TabIndex = 1;
