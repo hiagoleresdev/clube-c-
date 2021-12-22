@@ -47,7 +47,7 @@
             // 
             // menuStrip1
             // 
-            this.menuStrip1.BackColor = System.Drawing.Color.White;
+            this.menuStrip1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(52)))), ((int)(((byte)(73)))), ((int)(((byte)(85)))));
             this.menuStrip1.Font = new System.Drawing.Font("Segoe UI", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.menuStrip1.ImageScalingSize = new System.Drawing.Size(20, 20);
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
@@ -67,7 +67,7 @@
             this.cadastrarToolStripMenuItem,
             this.pagarMensalidadeToolStripMenuItem,
             this.verSóciosToolStripMenuItem});
-            this.sócioToolStripMenuItem.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(52)))), ((int)(((byte)(73)))), ((int)(((byte)(85)))));
+            this.sócioToolStripMenuItem.ForeColor = System.Drawing.Color.White;
             this.sócioToolStripMenuItem.Name = "sócioToolStripMenuItem";
             this.sócioToolStripMenuItem.Size = new System.Drawing.Size(83, 35);
             this.sócioToolStripMenuItem.Text = "Sócio";
@@ -98,7 +98,7 @@
             this.dependenteToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.cadastrarToolStripMenuItem1,
             this.verDependentesToolStripMenuItem});
-            this.dependenteToolStripMenuItem.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(52)))), ((int)(((byte)(73)))), ((int)(((byte)(85)))));
+            this.dependenteToolStripMenuItem.ForeColor = System.Drawing.Color.White;
             this.dependenteToolStripMenuItem.Name = "dependenteToolStripMenuItem";
             this.dependenteToolStripMenuItem.Size = new System.Drawing.Size(154, 35);
             this.dependenteToolStripMenuItem.Text = "Dependente";
@@ -122,7 +122,7 @@
             this.mensalidadeToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.cadastrarToolStripMenuItem2,
             this.verMensalidadesToolStripMenuItem});
-            this.mensalidadeToolStripMenuItem.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(52)))), ((int)(((byte)(73)))), ((int)(((byte)(85)))));
+            this.mensalidadeToolStripMenuItem.ForeColor = System.Drawing.Color.White;
             this.mensalidadeToolStripMenuItem.Name = "mensalidadeToolStripMenuItem";
             this.mensalidadeToolStripMenuItem.Size = new System.Drawing.Size(160, 35);
             this.mensalidadeToolStripMenuItem.Text = "Mensalidade";
@@ -146,7 +146,7 @@
             this.categoriaToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.cadastrarCategoriaToolStripMenuItem,
             this.listarCategoriasToolStripMenuItem});
-            this.categoriaToolStripMenuItem.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(52)))), ((int)(((byte)(73)))), ((int)(((byte)(85)))));
+            this.categoriaToolStripMenuItem.ForeColor = System.Drawing.Color.White;
             this.categoriaToolStripMenuItem.Name = "categoriaToolStripMenuItem";
             this.categoriaToolStripMenuItem.Size = new System.Drawing.Size(127, 35);
             this.categoriaToolStripMenuItem.Text = "Categoria";
@@ -169,9 +169,10 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(52)))), ((int)(((byte)(73)))), ((int)(((byte)(85)))));
+            this.BackColor = System.Drawing.Color.White;
             this.ClientSize = new System.Drawing.Size(944, 603);
             this.Controls.Add(this.menuStrip1);
+            this.ForeColor = System.Drawing.Color.White;
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "FormPrincipal";
             this.Text = "FormPrincipal";

@@ -111,12 +111,6 @@
     <Compile Include="View\Interfaces\CadastroMensalidade.Designer.cs">
       <DependentUpon>CadastroMensalidade.cs</DependentUpon>
     </Compile>
-    <Compile Include="View\Interfaces\Form1.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="View\Interfaces\Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
-    </Compile>
     <Compile Include="View\Interfaces\FormCategoria.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -153,12 +147,6 @@
     <Compile Include="View\Interfaces\FormSocios.Designer.cs">
       <DependentUpon>FormSocios.cs</DependentUpon>
     </Compile>
-    <Compile Include="View\Interfaces\TelaMensalidade.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="View\Interfaces\TelaMensalidade.Designer.cs">
-      <DependentUpon>TelaMensalidade.cs</DependentUpon>
-    </Compile>
     <Compile Include="Model\Cadastro.cs" />
     <Compile Include="Model\CadastroDependente.cs" />
     <Compile Include="Model\Conexao.cs" />
@@ -175,9 +163,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="View\Interfaces\CadastroMensalidade.resx">
       <DependentUpon>CadastroMensalidade.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="View\Interfaces\Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="View\Interfaces\FormCategoria.resx">
       <DependentUpon>FormCategoria.cs</DependentUpon>
@@ -196,9 +181,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="View\Interfaces\FormSocios.resx">
       <DependentUpon>FormSocios.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="View\Interfaces\TelaMensalidade.resx">
-      <DependentUpon>TelaMensalidade.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

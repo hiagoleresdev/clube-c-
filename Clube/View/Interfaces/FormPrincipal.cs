@@ -27,7 +27,7 @@ namespace Clube.Interfaces
             System.Windows.Forms.Application.Exit();
            
         }
-
+        
         private void cadastrarToolStripMenuItem1_Click(object sender, EventArgs e)
         {
             CadastrarDependente cliente = new CadastrarDependente();
