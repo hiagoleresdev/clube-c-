@@ -3,13 +3,11 @@ C:\Users\hiago.leres\source\repos\Clube\Clube\bin\Debug\Clube.exe
 C:\Users\hiago.leres\source\repos\Clube\Clube\bin\Debug\Clube.pdb
 C:\Users\hiago.leres\source\repos\Clube\Clube\obj\Debug\Clube.csproj.AssemblyReference.cache
 C:\Users\hiago.leres\source\repos\Clube\Clube\obj\Debug\Clube.csproj.SuggestedBindingRedirects.cache
-C:\Users\hiago.leres\source\repos\Clube\Clube\obj\Debug\Clube.Form1.resources
 C:\Users\hiago.leres\source\repos\Clube\Clube\obj\Debug\Clube.Properties.Resources.resources
 C:\Users\hiago.leres\source\repos\Clube\Clube\obj\Debug\Clube.csproj.GenerateResource.cache
 C:\Users\hiago.leres\source\repos\Clube\Clube\obj\Debug\Clube.csproj.CoreCompileInputs.cache
 C:\Users\hiago.leres\source\repos\Clube\Clube\obj\Debug\Clube.exe
 C:\Users\hiago.leres\source\repos\Clube\Clube\obj\Debug\Clube.pdb
-C:\Users\hiago.leres\source\repos\Clube\Clube\obj\Debug\Clube.Interfaces.TelaMensalidade.resources
 C:\Users\hiago.leres\source\repos\Clube\Clube\obj\Debug\Clube.Interfaces.FormPrincipal.resources
 C:\Users\hiago.leres\source\repos\Clube\Clube\obj\Debug\Clube.Interfaces.CadastrarCliente.resources
 C:\Users\hiago.leres\source\repos\Clube\Clube\obj\Debug\Clube.Interfaces.CadastrarDependente.resources
